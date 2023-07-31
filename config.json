@@ -1,9 +1,9 @@
 {
-    "name": "Train dataset - Aerial Power Infrastructure Detection",
-    "description": "For object detection tutorials",
+    "name": "Test dataset - Eschikon Wheat Segmentation (EWS)",
+    "description": "Wheat images for test",
     "type": "project",
     "categories": ["import", "images", "project"],
-    "icon": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/380e5eed-05b0-49d7-99ac-baade9e0ac72",
+    "icon": "https://github.com/supervisely-ecosystem/EWS-Dataset-test-data/assets/119248312/b70e2ae7-4fe4-4cec-ad04-f128f66c671d",
     "icon_cover": true,
-    "poster": "https://github.com/supervisely-ecosystem/aerial-power-infrastructure-detection-train-dataset/assets/119248312/32ba958e-07a8-4509-9a72-f82064f75e9a"
+    "poster": "https://github.com/supervisely-ecosystem/EWS-Dataset-test-data/assets/119248312/e8b036de-85fe-457b-8677-49076fcfe867"
   }
