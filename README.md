@@ -23,7 +23,7 @@
 
 # Overview
 
-💾 Train Dataset
+💾 Test Dataset
 
 Within the scope of [this work](https://www.frontiersin.org/articles/10.3389/fpls.2021.774068/full), a new dataset for the segmentation of plants and soil was created. It consists of 190 manually chosen and hand annotated image patches of 350 × 350 pixels. The images were selected from a large unlabeled dataset that consists of approximately 100,000 20 Mpx RGB images of different winter wheat genotypes. These images were collected between 2017 and 2020 with a Canon 5D Mark II (Canon Inc., Japan) - 35 mm. The image set within each year covers the whole growing period from emergence to harvest. As the images are taken in the field, they show situations with widely varying illumination and soil moisture conditions:
 
