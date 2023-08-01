@@ -13,9 +13,9 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/EWS-Dataset-test-data)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/EWS-Dataset-test-data.png)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/EWS-Dataset-test-data.png)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/ews-dataset-test-data)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/ews-dataset-test-data.png)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/ews-dataset-test-data.png)](https://supervise.ly)
 
 # Test dataset - Eschikon Wheat Segmentation (EWS) 
 
